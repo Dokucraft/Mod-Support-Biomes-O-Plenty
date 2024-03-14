@@ -1,6 +1,7 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "biomesoplenty:item/umbran_chest_boat"
-    }
+	"parent": "minecraft:item/boat_chest",
+	"textures": {
+		"boat": "biomesoplenty:entity/boat/item/umbran",
+		"chest": "biomesoplenty:entity/chest_boat/item/umbran"
+	}
 }

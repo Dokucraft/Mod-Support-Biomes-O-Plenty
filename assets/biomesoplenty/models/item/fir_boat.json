@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "biomesoplenty:item/fir_boat"
-    }
-}
+{"parent":"minecraft:item/boat","textures":{"texture":"biomesoplenty:entity/boat/item/fir"}}
