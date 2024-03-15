@@ -1,9 +1,0 @@
-{
-    "variants": {
-		"": [
-            { "model": "biomesoplenty:block/hanging_cobweb_strand" },
-            { "model": "biomesoplenty:block/hanging_cobweb_strand_single" },
-			{ "model": "biomesoplenty:block/hanging_cobweb_strand_broken" }
-        ]
-    }
-}

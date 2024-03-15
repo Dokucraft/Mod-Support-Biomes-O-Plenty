@@ -1,8 +1,0 @@
-{
-    "variants": {
-		"": [
-            { "model": "biomesoplenty:block/flesh_tendons" },
-            { "model": "biomesoplenty:block/flesh_tendons_alt" }
-        ]
-    }
-}
